@@ -35,6 +35,7 @@ For multiple revisions of the same audit, append a version suffix before the ext
 ## 📝 Report Index
 
 - **2025-10-17** — PasswordStore — [`2025-10-17-passwordstore-audit.pdf`](./2025-10-17-passwordstore-audit.pdf)
+- **2025-11-02** — PasswordStore — [`2025-11-02-puppyraffle-audit.pdf`](./2025-11-02-puppyraffle-audit.pdf)
 
 ---
 
