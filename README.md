@@ -12,14 +12,6 @@ Filenames follow a clear naming convention for easy browsing and sorting:
 
 ---
 
-## 📖 Viewing Reports
-
-You can view each report directly in your browser or any standard PDF reader.
-
-👉 [View the PasswordStore audit report](./2025-10-17-passwordstore-audit.pdf)
-
----
-
 ## ➕ Adding New Reports
 
 1. **Name your file** using the format:  
@@ -35,7 +27,8 @@ For multiple revisions of the same audit, append a version suffix before the ext
 ## 📝 Report Index
 
 - **2025-10-17** — PasswordStore — [`2025-10-17-passwordstore-audit.pdf`](./2025-10-17-passwordstore-audit.pdf)
-- **2025-11-02** — PasswordStore — [`2025-11-02-puppyraffle-audit.pdf`](./2025-11-02-puppyraffle-audit.pdf)
+- **2025-11-02** — PuppyRaffle — [`2025-11-02-puppyraffle-audit.pdf`](./2025-11-02-puppyraffle-audit.pdf)
+- **2025-11-12** — TSwap — [`2025-11-12-tswap-audit.pdf`](./2025-11-12-tswap-audit.pdf)
 
 ---
 
